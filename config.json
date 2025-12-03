@@ -1,0 +1,29 @@
+{
+  "name": "YangKeao's Gallery",
+  "title": "YangKeao's Gallery",
+  "description": "YangKeao's eyes behind the camera.",
+  "url": "https://gallery.chunibyo.icu/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "YangKeao",
+    "url": "https://gallery.chunibyo.icu/",
+    "avatar": ""
+  },
+  "social": {
+    "github": "YangKeao",
+    "twitter": "YangKeao"
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator"
+}
